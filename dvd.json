@@ -1,0 +1,19 @@
+{
+    "dvd1": {
+        "item_id": "004",
+        "status": "Available",
+        "rating": "1/5"
+    },
+
+    "dvd2": {
+        "item_id": "005",
+        "status": "Checked Out",
+        "rating": "5/5"
+    }, 
+
+    "dvd3": {
+        "item_id": "006",
+        "status": "Available",
+        "rating": "4/5"
+    }
+}

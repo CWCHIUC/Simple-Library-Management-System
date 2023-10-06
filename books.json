@@ -1,0 +1,17 @@
+{
+    "book1": {
+        "item_id": "001",
+        "status": "available",
+        "rating": "1/5"
+    },
+    "book2": {
+        "item_id": "002",
+        "status": "checked out",
+        "rating": "5/5"
+    },
+    "book3": {
+        "item_id": "003",
+        "status": "available",
+        "rating": "4/5"
+    }
+}
