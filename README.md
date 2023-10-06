@@ -9,7 +9,7 @@ Before you begin, make sure you have Python installed on your system. You can do
 ## Installation
 Clone or download the repository to your local machine.
 
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/CWCHIUC/Simple-Library-Management-System.git
 Navigate to the project directory.
 
 cd library-management-system
