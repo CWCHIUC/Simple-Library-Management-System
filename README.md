@@ -2,6 +2,8 @@
 Library Management System School Project
 Welcome to the Library Management System! This Python application allows you to manage a library's collection of books and DVDs. You can browse books, check availability, print ratings, check in/out items, and even open books for reading.
 
+Created by: Constantine Chiu
+
 ## Getting Started
 Prerequisites
 Before you begin, make sure you have Python installed on your system. You can download Python from the official website: python.org.
