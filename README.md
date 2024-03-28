@@ -31,13 +31,14 @@ Enter your library access card number when prompted.
 
 You can now use the following actions in the Library Management System:
 
-Browse Books (1): View the available books in the library.
-Check Availability of a Book (2): Check if a specific book is available.
-Print Rating of a Book (3): Print the rating of a book.
-Check Out a Book (4): Borrow a book from the library.
-Check In a Book (5): Return a borrowed book to the library.
-Open a Book (6): Read a book that you have borrowed.
-Exit (7): Quit the Library Management System.
+- Browse Books (1): View the available books in the library. 
+- Check Availability of a Book (2): Check if a specific book is available.
+- Print Rating of a Book (3): Print the rating of a book.
+- Check Out a Book (4): Borrow a book from the library.
+- Check In a Book (5): Return a borrowed book to the library.
+- Open a Book (6): Read a book that you have borrowed.
+- Exit (7): Quit the Library Management System.
+
 Follow the on-screen prompts to perform your desired actions.
 
 ## JSON Database Files
